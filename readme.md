@@ -1,5 +1,5 @@
 # A simple, minimal Maven example: hello world
-# test
+# This is a test copy from internet public source
 #
 
 To create the files in this git repo we've already run `mvn archetype:generate` from http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
